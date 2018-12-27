@@ -16,13 +16,14 @@
 title: Felix van Doorn
 email: felix.a.vandoorn@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my personal blog. Here I will write about
+  Welcome to my personal blog. Here I write about
   subjects that interest me and projects that I am currently
   working on. Feel free to contact me to share your thoughts!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FelixDoorn
 github_username:  FelixvanDoorn
+linkedin_username: felix-van-doorn-807199a0
 
 # Build settings
 markdown: kramdown
