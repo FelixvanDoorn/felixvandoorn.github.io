@@ -8,6 +8,8 @@ permalink: /about/
 [comment]: <> (driving data-informed strategies and building infrastructure required for)
 [comment]: <> (scaling of infrastructure and reporting of goals and KPI's.)
 
+![A picture of me!][profile-pic]
+
 Obtained an MSc in Computer Science (Data Science & Technology track) and BSc
 in Computer Science & Engineering from Delft University of Technology. Served as
  TA for numerous undergraduate and graduate courses in
@@ -25,3 +27,5 @@ exploration and colonization of space and to end poverty and hunger.
 
 I am also an avid golfer, having competed at national level and ranked as one of
 the top 30 golfers on the Dutch amateur Order of Merit in 2013.
+
+[profile-pic]: (/assets/FelixvanDoorn.jpg)
