@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-[comment]: <> (Currently employed as a Product Analyst at Uber in Amsterdam, focusing on
-driving data-informed strategies and building infrastructure required for
-scaling of infrastructure and reporting of goals and KPI's.)
+[comment]: <> (Currently employed as a Product Analyst at Uber in Amsterdam, focusing on)
+[comment]: <> (driving data-informed strategies and building infrastructure required for)
+[comment]: <> (scaling of infrastructure and reporting of goals and KPI's.)
 
 Obtained an MSc in Computer Science (Data Science & Technology track) and BSc
 in Computer Science & Engineering from Delft University of Technology. Served as
