@@ -28,4 +28,4 @@ exploration and colonization of space and to end poverty and hunger.
 I am also an avid golfer, having competed at national level and ranked as one of
 the top 30 golfers on the Dutch amateur Order of Merit in 2013.
 
-[profile-pic]: /blob/master/assets/FelixvanDoorn.jpg
+[profile-pic]: assets/FelixvanDoorn.jpg
