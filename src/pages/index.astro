@@ -1,0 +1,32 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>👋 Hello there!</h1>
+			<p>
+				I'm Felix, and welcome to the place where I share a running record of things I'm building
+				and thinking about.
+			</p>
+			<p>
+				I've spent most of my career working in data at Big Tech companies, these days I'd call
+				myself a data-obsessed product builder with a bit of a polymath streak and an out of
+				control golf hobby.
+			</p>
+			<p>
+				Take a look at <a href="/about">my background</a>, or head over to the <a href="/blog">blog</a> for posts on products, data and the occasional detour into golf.
+			</p>
+		</main>
+		<Footer />
+	</body>
+</html>

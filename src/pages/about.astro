@@ -1,0 +1,75 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead
+			title="About"
+			description="Quick bio and background for Felix van Doorn."
+		/>
+		<style>
+			main {
+				width: 720px;
+				max-width: calc(100% - 2em);
+				margin: auto;
+				padding: 3em 1em;
+			}
+			section {
+				margin-top: 2.5em;
+			}
+			ul {
+				padding-left: 1.2em;
+			}
+			li {
+				margin-bottom: 0.75em;
+			}
+			.placeholder {
+				color: rgb(var(--gray));
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>About</h1>
+			<p>
+				I'm Felix, a data-obsessed product builder with a bit of a polymath streak. I've spent
+				most of my career working in data at Big Tech companies, and outside of work you'll find
+				me writing (for my golf club's magazine, and now here) or out on the course with an out
+				of control golf hobby.
+			</p>
+
+			<section>
+				<h2>What I've done</h2>
+				<ul class="placeholder">
+					<li><strong>[Role]</strong> at [Company] (20XX–20XX) — one-line description of impact.</li>
+					<li><strong>[Role]</strong> at [Company] (20XX–20XX) — one-line description of impact.</li>
+					<li><strong>[Role]</strong> at [Company] (20XX–20XX) — one-line description of impact.</li>
+				</ul>
+			</section>
+
+			<section>
+				<h2>What I'm doing</h2>
+				<ul class="placeholder">
+					<li>[Current role/company] — what you're focused on right now.</li>
+					<li>Writing essays and technical breakdowns on this blog.</li>
+					<li>[Other current project, hobby, or commitment worth mentioning.]</li>
+				</ul>
+			</section>
+
+			<section>
+				<h2>Where I want to go</h2>
+				<ul class="placeholder">
+					<li>[What you're building toward or exploring next.]</li>
+					<li>[Skills, domains, or roles you want to grow into.]</li>
+					<li>[What "success" looks like a few years from now.]</li>
+				</ul>
+			</section>
+		</main>
+		<Footer />
+	</body>
+</html>
