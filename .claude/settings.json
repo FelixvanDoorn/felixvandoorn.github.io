@@ -1,0 +1,10 @@
+{
+  "worktree": {
+    "baseRef": "head"
+  },
+  "permissions": {
+    "additionalDirectories": [
+      "/Users/felixvandoorn/workspace/felixvandoorn.github.io"
+    ]
+  }
+}
